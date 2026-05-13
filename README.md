@@ -1,4 +1,4 @@
-# Prithvi-EO Burn Scar Segmentation — Park Fire 2024
+# Prithvi-EO Burn Scar Segmentation 
 
 End-to-end demo applying the Prithvi-EO burn scar model to HLS imagery. MTBS perimeters is used as a ground truth for comparison and validation.
 
